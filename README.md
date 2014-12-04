@@ -3,6 +3,8 @@ SparkTOTP
 
 This is an Spark library to generate TOTP codes based on the OpenAuthentication Time-based One-time Password Algorithm (RFC 6238)
 
+# Demo GIF
+![GIF showing code 588209](/examples/ledMatrix/demo_588209.gif)
 
 # Usage
 ## WebIDE

@@ -3,7 +3,7 @@
 // SparkCore Library
 
 // Original Arduino library by Luca Dentella (http://www.lucadentella.it)
-// Adapter for SparkCore by Harrison Jones
+// Adapted for SparkCore by Harrison Jones
 
 #include "TOTP.h"
 #include "sha1.h"

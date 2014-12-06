@@ -8,9 +8,9 @@
 // Simple Example
 
 // Usage: 
-// 1. Goto http://www.lucadentella.it/OTP/ and choose a 10 digit password/secret and give it a name
+// 1. Open Generator.html in your browser, choose a password/secret, and give it a name
 // 2. Scan the QR code with your phone in your authenticator app
-// 3. Replace the Arduino HEX array hmacKey[] with the one given by the website
+// 3. Replace the HEX array hmacKey[] with the one given by the website
 // 4. Flash the code to your core
 // 5. Open up a serial connection and press anykey
 // 6. Compare the code against the authenticator application

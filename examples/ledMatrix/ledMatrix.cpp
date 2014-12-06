@@ -44,6 +44,11 @@ unsigned char disp1[13][8]={
 {0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00}, // " "
 };
 
+// Max7219 Functions
+void Write_Max7219_byte(unsigned char DATA);
+void Write_Max7219(unsigned char address,unsigned char dat);
+void Init_MAX7219(void);
+
 // TOPT Variables
 // The shared secret is MyLegoDoor
 //                    M     y     L     e     g     o     D     o     o     r
